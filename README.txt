@@ -1,7 +1,6 @@
 SCH-WARZ* (Battleship!) Readme
 
-This project was compelted entirely by Jonathan Martin. Peter Kenez
-delivered no contribution at all.
+This project was compelted entirely by Jonathan Martin.
 
 This project only runs on LOCALHOST, so there will be two windows
 on a single computer that represent two players.
