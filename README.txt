@@ -1,12 +1,16 @@
 SCH-WARZ* (Battleship!) Readme
-
+**************************
+Use these files to play:
+SCH-WARZ/Battleship_client_gamma/SCH-WARZ/Battleship_server_beta.exe
+SCH-WARZ/Battleship_client_gamma/SCH-WARZ/Battleship_client_gamma.exe
+**************************
 This project was compelted entirely by Jonathan Martin.
 
 This project only runs on LOCALHOST, so there will be two windows
 on a single computer that represent two players.
 
 - To run the game, make sure the Battleship server is running
-first, then run the client. There is not need to open the sounds
+first, then run the client. There is no need to open the sounds
 file. (Make sure your volume is up, though!)
 - The client will open two windows, on directly on top of the other.
 Drag the top window out of the way to see the other.
